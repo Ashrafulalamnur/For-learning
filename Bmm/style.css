@@ -1,0 +1,55 @@
+body{
+  font-family: tiro bangla;
+}
+header img{
+  margin: 10px auto;
+}
+#main-content{
+  padding: 10px;
+  margin-top: 5px;
+}
+#main-content h1{
+  font-size: 30px;
+  font-weight: bold;
+}
+#main-content a{
+   border-radius: 8px;
+   font-weight: bold;
+   text-decoration: none;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+.home-button-section{
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    background: rgba(1, 54, 34, 0.15);
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+.home-menu-btn {
+    background: #2F2828 !important;
+    border-color: #2F2828 !important;
+    display: block;
+    color: #FFFFFF;
+}
+.home-button-section:hover{
+    color: #2b43ff;
+}
+.row a:hover, #notice a:hover{
+    text-decoration: underline;
+}
+#notice{
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#notice a{
+    text-decoration: none;
+    color: white;
+}
+#notice a:hover{
+    color: blue;
+}
