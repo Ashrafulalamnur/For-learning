@@ -1,0 +1,36 @@
+@media screen and (max-width: 950px){
+    .content {
+    width: 96%;
+
+    }
+    .top_content {
+    margin-top: 10vw;
+    }
+    img {
+    width: 100%;
+    border-radius: 100%;
+   }
+   .top_content h1 {
+    font-size: 6vw;
+    }
+    .top_content h4 {
+    font-size: 2vw;
+    }
+   .img {
+       width: 30%;
+   }
+   .about {
+    margin-top: 15px;
+    }
+   .about h2 {
+    font-size: 5vw;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    font-weight: 500;
+    }
+    .about p {
+    font-size: 4vw;
+    line-height: 6vw;
+    text-align: left;    
+    }
+}
